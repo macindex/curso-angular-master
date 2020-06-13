@@ -1,0 +1,95 @@
+Objetivo da aula
+
+1. Angular material
+2. RxJS
+
+
+Angular material é a implementação oficial, para o angular, do material design, a especificação de design para interfaces interativas do google. O material design cobre desde pequenos elementos, como ícones e cores, até elementos maiores como navegação cards, imagens e muito mais.
+
+--
+material.angular.io
+--
+cd em mat
+
+npm i (baixa as dependences do projeto)
+
+ng add @angular/material
+(adicionando angular material ao projeto)
+
+Theme: 	Indigo/ pink - (escolhido)
+	Deep Purple/Amberer
+	Pink/Blue Grey
+	Purple/Green
+
+HammerJS for gesture recognition -ok
+animations for angular material	 -ok
+
+
+Utilizado componente formulário
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

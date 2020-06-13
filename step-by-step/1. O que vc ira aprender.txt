@@ -1,0 +1,92 @@
+Requisitos básicos
+
+- Ter realizado o curso básico de angular
+
+- Ter realizado o curso JS ES6 Essencial
+
+- Ter node 11 e angular 8 instalado
+
+- Conhecimento básico com github
+
+- Editor de texto. VC
+
+
+
+OBJETIVO DO CURSO
+
+Montar um projeto com um CRUD completo de filmes.
+
+. Cadastrar
+. Listar
+. Editar
+. Exluir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
