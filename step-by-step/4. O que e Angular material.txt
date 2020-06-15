@@ -9,6 +9,9 @@ Angular material é a implementação oficial, para o angular, do material desig
 --
 material.angular.io
 --
+
+ng new mat
+
 cd em mat
 
 npm i (baixa as dependences do projeto)
@@ -27,7 +30,38 @@ animations for angular material	 -ok
 
 Utilizado componente formulário
 
+dentro do material.angular.io
 
+identificar Form field e escolher simple form field
+
+clicar no "edit simple form"
+
+irá abrir o stackblitz
+
+copiar codigo
+
+criar arquivo "material.module.ts" dentro de app e copiar arquivo do stackblitz
+
+copiar o export deste arquivo para "app.module.ts" e importar sua referência
+
+
+app.component.html
+
+este arquivo será substituido
+
+
+por 
+
+form-field-verview-example.html
+
+
+adicionando card
+
+
+
+----
+npm start
+----
 
 
 
