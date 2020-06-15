@@ -63,6 +63,10 @@ adicionando card
 npm start
 ----
 
+Todos os módulos já foram importados
+
+
+
 
 
 
