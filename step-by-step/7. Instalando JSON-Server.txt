@@ -1,0 +1,95 @@
+JSON-Server
+
+Cria chamadas rest para um back-end que não existe, porém retorna um arquivo dbJSON.
+
+-----------
+npm install -g json-server
+
+Passo para inicializar o servidor
+
+--
+json-server --watch db.json
+
+
+
+Realização de testes através do postman ou insomnia
+
+PUT - para realizar a atualização é necessário indicar no endereço o arquivo q será atualizado ex:
+
+localhost:3000/filmes/87
+
+87 é o id do arquivo q será atualizado
+
+DELETE 
+
+Não precisa passar informações apenas o id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
