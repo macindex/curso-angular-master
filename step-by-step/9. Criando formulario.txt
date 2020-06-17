@@ -1,0 +1,42 @@
+Começar criando cadastro
+
+form-builder cria o 'form-group'
+
+cria um formulário onde o angular vai manipular as informações ali contidas
+
+
+O Grupo contém vários controls onde serão utilizados no form
+
+matDatepicker - pede a var onde vai estar o calendário que abre
+
+referenciar no formgroup no html, qual o campo que esta sendo referenciado no componente.ts dizer no input.
+
+dentro do formControlName e name são case-sensitive
+
+adicionado type="number" min="0" max="10"
+
+criado o ngSalvar() deve ser criado também no ts
+
+
+salvar(): void{
+	if (this.cadastro.invalid){
+	return;
+ }
+	alert('SECESSO!!\n\n' + JSON.stringify(this.cadastro.value, null, 4));
+}
+reiniciarForm(): void{
+	this.cadastro.reset();
+}
+
+colocar lá em ngOnInit(): void{
+
+
+dentro do html colocar
+
+type="submit" 
+type="reset"
+
+
+
+
+
