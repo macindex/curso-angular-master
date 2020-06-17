@@ -1,0 +1,10 @@
+git clone
+
+
+adicionar node_modules ao gitignore
+
+na pasta curso-angular realizar npm i
+
+
+npm start
+
