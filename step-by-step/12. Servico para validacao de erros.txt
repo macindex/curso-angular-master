@@ -1,0 +1,32 @@
+criando service
+
+
+
+
+adicionar dependência no package.json
+
+npm i @schematics/angular@7.0.7 --save-dev
+(--save-dev irá instalar dentro do ambiente de desenvolvimeto)
+
+ng g s shared/components/campos/validarCampos --nospec
+(ng generate service - nospec serve para q não gere o arquivo de teste junto)
+
+dentro do arquivo "validar-campos.service.ts" existe o provideIn: 'root'
+
+Acessa qualquer local do sistema que estiver sendo acessado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
