@@ -1,0 +1,3 @@
+Componentizar para reutilizar
+
+Criar componente para cada input

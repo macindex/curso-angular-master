@@ -15,7 +15,8 @@ export class CadastroFilmesComponent implements OnInit {
   
   cadastro: FormGroup;
 
-  constructor(public validacao: ValidarCamposService, fb: FormBuilder) { }
+  constructor(public validacao: ValidarCamposService, 
+    private fb: FormBuilder) { }
 
   get f(){
     return this.cadastro.controls;
