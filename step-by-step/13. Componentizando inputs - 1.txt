@@ -1,3 +1,51 @@
 Componentizar para reutilizar
 
 Criar componente para cada input
+
+Antes de criar o componente é necessário criar modulo
+
+ng g m shared/components/campos --nospec
+
+
+ng g c shared/components/campos/input-text --nospec(ng generate component que vai ficar em shared)
+
+tslint.json informa o código que inicia cada componente então no input-text-component.ts deverá ser indicado o dio no "selector: 'dio-input-text',"
+
+
+criado também number, date, textarea, select através de:
+
+ng g c shared/components/campos/input-number --nospec
+ng g c shared/components/campos/input-date --nospec
+ng g c shared/components/campos/input-textarea --nospec
+ng g c shared/components/campos/input-select --nospec
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
