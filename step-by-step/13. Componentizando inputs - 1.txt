@@ -19,9 +19,12 @@ ng g c shared/components/campos/input-date --nospec
 ng g c shared/components/campos/input-textarea --nospec
 ng g c shared/components/campos/input-select --nospec
 
+IMPORTS e EXPORTS são passados através do campos.module.ts
 
 
+dentro do input-text-component.html
 
+o input foi definido genericamente [place...], [name]
 
 
 
